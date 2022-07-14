@@ -6,5 +6,9 @@ not included in the Go standard library. These include:
 
  *  [CMAC][cmac], a message authentication system used by SIV mode.
 
-[siv]: https://godoc.org/github.com/jacobsa/crypto/siv
-[cmac]: https://godoc.org/github.com/jacobsa/crypto/cmac
+[siv]: https://godoc.org/github.com/aperturerobotics/jacobsa-crypto/siv
+[cmac]: https://godoc.org/github.com/aperturerobotics/jacobsa-crypto/cmac
+
+This repository was forked from [jacobsa/crypto] for maintenance.
+
+[jacobsa/crypto]: https://github.com/jacobsa/crypto

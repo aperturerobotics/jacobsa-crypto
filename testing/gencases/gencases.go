@@ -18,7 +18,7 @@ package main
 import (
 	"encoding/gob"
 	"flag"
-	"github.com/jacobsa/crypto/testing"
+	"github.com/aperturerobotics/jacobsa-crypto/testing"
 	"log"
 	"math/rand"
 	"os"

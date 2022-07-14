@@ -18,7 +18,7 @@ package common_test
 import (
 	"testing"
 
-	"github.com/jacobsa/crypto/common"
+	"github.com/aperturerobotics/jacobsa-crypto/common"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
 )

@@ -19,7 +19,7 @@ import (
 	"bytes"
 	"crypto/aes"
 
-	"github.com/jacobsa/crypto/common"
+	"github.com/aperturerobotics/jacobsa-crypto/common"
 )
 
 var dblRb []byte

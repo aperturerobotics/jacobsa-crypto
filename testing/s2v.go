@@ -39,7 +39,7 @@ func (c S2vTestCase) String() string {
 func S2vCases() []S2vTestCase {
 	// Find the source package.
 	pkg, err := build.Import(
-		"github.com/jacobsa/crypto/testing/cases",
+		"github.com/aperturerobotics/jacobsa-crypto/testing/cases",
 		"",
 		build.FindOnly)
 
