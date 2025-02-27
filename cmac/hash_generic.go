@@ -13,7 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// +build riscv64
+// +build riscv64 loong64
 
 // This code doesn't require that it's safe to perform unaligned word-sized loads, but has a poor performance.
 
